@@ -1,0 +1,28 @@
+body {
+  background: #f5f5dc;
+  font-family: Georgia, serif;
+  color: #333;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+img {
+  width: 220px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.section {
+  margin: 20px auto;
+  padding: 15px;
+  max-width: 500px;
+  background: #fffff0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
